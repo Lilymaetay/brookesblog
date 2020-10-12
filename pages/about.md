@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my life
+subtitle: "All About Lily "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/931fd10a-ac85-4874-8920-7584777d9a98.png
 published: true
 tags: null
 description: null
