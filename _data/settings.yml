@@ -1,9 +1,9 @@
 title: Tasty Typography
 description: A blog exploring the world of typography
-header_text: Lily's Blogs
+header_text: ""
 footer_text: Copyright 2020 Lily Taylor
 header_feature_image: ../uploads/dcea7c7d-57af-4ef8-8695-634f556e582c.png
-bannerheight: 10vmax
+bannerheight: 20vmax
 logo: ../uploads/logo.png
 favicon: ../uploads/logo.png
 gridlayout: false
