@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to My Blog - My Weird Obsession
+title: A Very Weird Intro to My Blog
 date: 2020-10-11T21:40:48.276Z
 header_feature_image: ../uploads/bannana.jpg
 caption: "How my weird food obsession has now become the focus of my assignment "
