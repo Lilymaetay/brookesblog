@@ -20,7 +20,7 @@ I want to focus in particular on the food industry and how brands are changing t
 
 ![Credit;https://www.dailymail.co.uk/news/article-8763275/Mars-drops-Uncle-Bens-reveals-new-rice-brand.html](../uploads/bensss.jpg)
 
-Uncle Bens is a key example of food brands that are changing their logos in order to fit in with society. It's logo holds very strong connotations to slavery in America which has angered many people. The original logo features a black man presumably 'Uncle Ben'. The word uncle itself was used as a name of a slave particularly in the Southern regions of America. The move was made in order to 'put an end to racial injustice' as stated on the Daily Mail. 
+Uncle Bens is a key example of food brands that are changing their logos in order to fit in with society. It's logo holds very strong connotations to slavery in America which has angered many people. The original logo features a black man presumably 'Uncle Ben'. The word uncle itself was used as a name of a slave particularly in the Southern regions of America. The move was made in order to 'put an end to racial injustice' as stated in the Daily Mail. 
 
 The font style remains pretty much the same. Very bold and blue which gives a calming effect to the reader. The contrast as well between both the blue and orange makes the text stand out far more than if the font was only placed on a single colour. Pastel colours are also now used which gives the logo a far more modern feel than before.
 
@@ -32,4 +32,4 @@ Aunt Jemima's is another food brand pledged to change it's logo by the end of 20
 
 **Moving Forward**
 
-There are still many food brands, mainly in America that have racial connotations linked to the brand. 'Cream of Wheat' for instance and 'Mrs Butterworth's' have to pledged to change their logo due to the racial connotations they hold. From research it is clear that many of these brands have a stereotypical image of a black person which in this modern era is completely unacceptable. In the future I hope all food brands that may be linked to racism will change their typography in order to fit with the positive changing views in society.
+There are still many food brands, mainly in America, that have racial connotations linked to the brand. 'Cream of Wheat' for instance and 'Mrs Butterworth's' have to pledged to change their logo due to the racial connotations they hold. From research it is clear that many of these brands have a stereotypical image of a black person which in this modern era is completely unacceptable. In the future I hope all food brands that may be linked to racism will change their typography in order to fit with the positive changing views in society.
