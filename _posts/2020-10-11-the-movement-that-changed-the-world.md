@@ -6,7 +6,7 @@ header_feature_image: ../uploads/photo-1592413658516-1e6126f92abc.jpg
 caption: How one movement has changed the food industry
 comments: true
 ---
-It’s crazy to see how in this modern era people are still being judged upon over something so stupid as the colour of their skin. I think for a long time the world wanted change and the Black lives matter movement gives us that opportunity to share our anger and pain. After the death of George Floyd on … the world united and marched from streets on all continents in the hope that change will come.
+It’s crazy to see how in this modern era people are still being judged upon over something so stupid as the colour of their skin. I think for a long time the world wanted change and the Black lives matter movement gives us that opportunity to share our anger and pain. After the death of George Floyd the world began to change, along with the food branding industry.
 
 **Worldwide Attention**
 
