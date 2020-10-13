@@ -34,7 +34,7 @@ I decided to also add an image of a strawberry at the bottom of the page. For me
 
 **My Banner**
 
-![](../uploads/3771f13d-50e7-44f7-aafd-4d77a25746a7.png)
+![](../uploads/323eb438-8b92-4991-9c48-c15139c396b6.png)
 
 Like my logo, my banner too was made using Canva with the two heavily linked as both had the same font and image style. I made this decision as I believe it looked far neater on the page.
 
