@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aldi Vs The Original... Who Wins?
+title: Aldi Vs The Original...Who Wins?
 date: 2020-10-11T21:47:07.265Z
 header_feature_image: ../uploads/photo-1540340061722-9293d5163008.jpg
 comments: true
