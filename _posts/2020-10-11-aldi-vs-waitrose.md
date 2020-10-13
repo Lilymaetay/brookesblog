@@ -5,7 +5,7 @@ date: 2020-10-11T21:47:07.265Z
 header_feature_image: ../uploads/photo-1540340061722-9293d5163008.jpg
 comments: true
 ---
-It is a debate my mother has been making for years. Whether to splash the cash at Waitrose or Tesco's or go for a bargain at Aldi. I can't even taste a difference between the products so it doesn't matter to me. What does stand out however is the fact that Aldi alters brands logos and makes them their own with ever so slight adjustments. This genius marketing tatic confuses shoppers on the daily as to whether they will be eating the real deal or not. I want to take some of my favourite foods from both Aldi and the original brands and see how the package style looks different. 
+It is a debate my mother has been making for years. Whether to splash the cash at Waitrose or Tesco's or go for a bargain at Aldi. I can't even taste a difference between the products so it doesn't matter to me. What does stand out however is the fact that Aldi alters brands logos and makes them their own with ever so slight adjustments. This genius marketing tatic confuses shoppers on the daily as to whether they will be eating the real deal or not. I want to take a couple of my favourite foods from both Aldi and the original brands and see how the package style looks different. 
 
 **Rich Teas**
 
