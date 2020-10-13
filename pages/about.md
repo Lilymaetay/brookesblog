@@ -4,7 +4,7 @@ title: All About Me
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/photo-1502741126161-b048400d085d.jpg
+header_feature_image: ../uploads/photo-1549888834-3ec93abae044.jpg
 published: true
 tags: null
 description: null
