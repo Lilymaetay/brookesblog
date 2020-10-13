@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All About Lily
+title: All About Me
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
