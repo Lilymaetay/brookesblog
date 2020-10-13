@@ -9,6 +9,8 @@ It is a debate my mother has been making for years. Whether to splash the cash a
 
 **Rich Teas**
 
+
+
 *Mcvitie's*
 
 ![](../uploads/ln_002152_bp_11.jpg)
@@ -19,8 +21,6 @@ The OG of all biscuits... MCVITIE'S. A delicious product, with a very good dunki
 
 *Aldi*
 
-
-
 ![](../uploads/058767005702200-a.jpg)
 
 At a first glance you may argue that this is the same product as the original... You are wrong. These are in fact in a whole other league, Aldi league.   The product is almost identical to that of Mcvities. The shades of blue are pretty much the same yet on this packaging there is no gradient between the blue and white. The font as well, although incredibly similar, is far less classier than the Mcvities. Seems even to be a little bolder. In a way this product looks a little cheaper with basic graphics shown eg of the teapot however from experience I can assure you both taste completley the same.  
@@ -29,11 +29,15 @@ At a first glance you may argue that this is the same product as the original...
 
 **Sour Cream and Onion Crisps** 
 
+
+
 *Pringles* 
 
 ![](../uploads/snapshotimagehandler_509411016.jpeg)
 
 By far my favourite crisps of all time has to be pringles. You'll see me sitting on the sofa in the corner snacking on a share can of these luxuries whilst everyone else is getting smashed. How can you not adore them! The logo itself is just iconic. It's weird how no one ever refers to pringles as crisps, it's simply just 'Pringles'. The Logo stands out in yellow and white. Yellow is usually associated with happiness and white meaning peace which is exactly how I feel whenever I have a can of these. The text Pringles is in the style of 'Bodega Sans Original'. It appears to be extremely bold with like the rich tea biscuits has slightly curved edges. Making it slightly fancy. It's a nice touch to also add the image of the face to the logo name as its easily memorable. The 'Sour Cream' text is less curved and slightly bolder. The fact the can is in green further adds to the idea of new and fresh which is exactly what the product is.
+
+
 
 *Aldi*
 
