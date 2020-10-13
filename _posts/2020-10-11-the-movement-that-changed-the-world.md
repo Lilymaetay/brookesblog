@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Movement that Changed the World
+title: The Movement that Changed Food Branding
 date: 2020-10-11T21:43:58.592Z
 header_feature_image: ../uploads/photo-1592413658516-1e6126f92abc.jpg
 caption: How one movement has changed the food industry
