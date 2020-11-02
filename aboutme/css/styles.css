@@ -1,7 +1,247 @@
+/* ---- General Styles ---- */
 body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Courier","Lucinda Sans,""Arial";
+	font-weight: 400;
+}
 
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("../images/sky3.jpg");
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 150px;
+}
+
+.profile_picture {
+	background-image: url("../images/Lily1.jpeg");
+	background-position:center;
+	width: 250px;
+	height: 250px;
+	border: white 7px solid;
+	border-radius: 50%;
+	background-size: 190%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	font-family: "Courier";
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	text-align: center;
+	font-size: 19px;
+	margin-top: 0px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #DDA0DD;
+}
+
+.few_things_text {
+	color: white;
+	font-size: 30px;
+	font-family: "Courier";
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+main {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 h1 {
-  
+	padding-top: 20px;
+	font-family: "Courier";
+	font-size: 30px;
+	color: purple;
+	font-weight: normal;
 }
+
+.facts p  {
+	text-align: center;
+	color: black;
+	font-family: "Courier";
+	font-size: 20px;
+	font-weight: 250;
+	line-height: 30px;
+	max-width: 760px;
+	margin: 0px auto 20px auto;
+	padding: 0 20px 0 20px;
+}
+
+.facts {
+border: 1px solid silver;
+
+
+}
+
+
+
+/* Text Highlight Colour */
+.highlight {
+	color: purple;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #DDA0DD;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid ##DDA0DD;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #DDA0DD;
+	background-color: #DDA0DD;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	width: 130px;
+	height: 100px
+	border: white solid 10px;
+
+	display: block;
+	margin: 40px auto 0 auto;
+}
+
+/* Siblingphotoright */
+.Siblingphotoright {
+	width:300px;
+	height:100px
+	border: black solid 20px;
+	display: block;
+	margin: 0px auto 30px auto;
+	padding-top: 10px;
+}
+
+
+
+/* Public Figures List */
+.public_figures_list {
+	font-family:  "Arial", "Courier";
+	text-align: center;
+	color: #DDA0DD;
+	font-size: 40px;
+	font-weight: 300;
+	list-style-type: none;
+
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	margin-top: -80px;
+}
+
+.public_figures_list li {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+
+/* --- Tell Me About You --- */
+.tell_me_section {
+	background-color: #DDA0DD;
+	width: 100%;
+	margin-top: 50px;
+	flex-basis: 300px;
+	padding: 10px;
+}
+
+
+/* 'You've learned a little about me.' */
+.learned_text {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-weight: 300;
+	font-family: "Courier";
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 10px 15px 10px;
+}
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: "courier";
+	font-weight: 250;
+	line-height: 30px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+
+.tell_me_link a {
+	color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+	margin-bottom: 20px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: #DDA0DD;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+	margin-bottom: 20px;
+
+	padding: 10px 20px 10px 20px;
+}
+
