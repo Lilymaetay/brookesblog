@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All About Me
+title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
