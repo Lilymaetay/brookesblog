@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("../images/sky3.jpg");
+	background-image: url("../Images/sky3.jpg");
 	background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("../images/Lily1.jpeg");
+	background-image: url("../Images/Lily1.jpeg");
 	background-position:center;
 	width: 250px;
 	height: 250px;
