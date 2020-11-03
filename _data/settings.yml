@@ -11,5 +11,5 @@ fixednavbar: false
 upzoom: true
 items:
   - siteurl: /aboutme
-    name: Portfolio
+    name: About Me
     tab: true
