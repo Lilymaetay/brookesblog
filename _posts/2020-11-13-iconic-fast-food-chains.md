@@ -34,3 +34,7 @@ Burger King was first developed in 1953 by Kieth Kramer and Matthew Burns, under
 **Nandos** 
 
 ![](../uploads/nandos.png)
+
+The logo for nandos which we see today was designed in 2016 by South African consultancy Sunshinegun. The font has many connection to the South African culture. The lettering was styled by Marks Salimu who handpainted the original words upon wooden panels. The lettering was inspired by road signs within South Africa that have the same font. 
+
+Nandos is known for its theme of red. The red is in fact inspired by peri-peri which is linked to the Chili-pepper. The deep shade of red was created specially by artist Manie Pietersn.
