@@ -27,6 +27,10 @@ The font style within the logo was designed by Victor Caruso, Ernst Friz and Thi
 
 ![](../uploads/burger-king.png)
 
+Burger King was first developed in 1953 by Kieth Kramer and Matthew Burns, under the name 'Insta-Burger'. The company was later brought in 1954 by James Mclamore and David Edgerton with its named being changed to 'Burger King'.
+
+ In 1999 the logo that we see today was first introduced to the public. It was designed by Sterling Brands with a strong resembelence to the original design of Burger King in 1964. The logo design visulizes burger with the words 'Burger King' being sandwiched inbetween two buns. The font is very similar to the Insaniburger font family, first designed by Adam Nerland. 
+
 **Nandos** 
 
 ![](../uploads/nandos.png)
