@@ -14,7 +14,7 @@ First developed in the Swiss town of Bern in 1908 the chocolate has become one o
 
 **TWIX**
 
-
+![](../uploads/twix.jpg)
 
 **MCDONALD'S**
 
