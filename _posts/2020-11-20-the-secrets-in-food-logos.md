@@ -10,9 +10,11 @@ For years food brands have been hiding hidden symbols from us. The tactical mark
 
 ![](../uploads/tobnerone.jpg)
 
-First developed in Switzerland in the 1800s by Emil Baumann and Theodor Tobler the food brand has become one of the most popular chocolate brands to date.
+First developed in the Swiss town of Bern in 1908 the chocolate has become one of the most loved chocolates in the world. Legend has it that the town of Bern owes its name to the furry creature. The logo cleverly is associated with this by having a bear hidden in the mountain. 
 
 **TWIX**
+
+
 
 **MCDONALD'S**
 
