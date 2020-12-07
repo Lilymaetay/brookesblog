@@ -6,20 +6,16 @@ comments: true
 ---
 For years food brands have been hiding hidden symbols from us. The tactical marketing move is utterly brilliant and totally different from most brands on the market. Here are a few of those logos with some design secrets that will shock you all...
 
-
-
 **TOBLERONE**
 
-First developed in Switzerland in the 1800s the food brand 
+![](../uploads/tobnerone.jpg)
 
-**HERSHEY**
+First developed in Switzerland in the 1800s by Emil Baumann and Theodor Tobler the food brand has become one of the most popular chocolate brands to date.
 
 **TWIX**
 
 **MCDONALD'S**
 
 **PEPSI**
-
-
 
 **SUBWAY**
