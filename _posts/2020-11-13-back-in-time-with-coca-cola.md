@@ -47,4 +47,4 @@ In 1982 the famous 'Diet Coke' was created as a healthier version of the origina
 
 **2011**
 
-In order to signify the 125th Anniversary of Coke, a special design was made in order to celebrate the occasion. The traditional red remains a standard trademark for Coke.
+In order to signify the 125th Anniversary of Coke, a special design was made to celebrate the occasion. The traditional red remains a standard trademark for Coke.
