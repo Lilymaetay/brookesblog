@@ -16,7 +16,7 @@ First developed in the Swiss town of Bern in 1908 the chocolate has become one o
 
 ![](../uploads/twix.jpg)
 
-If you look closely you will notice two very small Twix's upon the I. This secret message is supposed to highlight the famous left and right Twix campaign. 
+If you look closely you will notice two very small Twix's upon the I. This secret message is supposed to highlight the famous left and right Twix campaign. The campaign brought huge controversy over whether consumers choose to eat the left or right Twix first.
 
 **MCDONALD'S**
 
@@ -28,6 +28,6 @@ The famous food brand logo has a very naughty message. It has been rumored that 
 
 ![](../uploads/download.png)
 
-**Earth is actually meant to be** 
+Pepsi's logo is actually meant to visualize the earth's magnetic field. 
 
 **SUBWAY**
