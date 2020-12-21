@@ -28,6 +28,6 @@ The famous food brand logo has a very naughty message. It has been rumored that 
 
 ![](../uploads/download.png)
 
-
+**Earth is actually meant to be** 
 
 **SUBWAY**
