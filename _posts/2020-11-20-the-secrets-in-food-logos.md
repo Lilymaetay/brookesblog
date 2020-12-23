@@ -28,4 +28,4 @@ The famous food brand logo has a very naughty message. It has been rumored that 
 
 ![](../uploads/download.png)
 
-Pepsi's logo is actually meant to visualize the earth's magnetic field. This indicates how the consumer's themselves are attracted to buying and drinking Pepsi much like a magnet themselves.
+Pepsi's logo is actually meant to visualize the earth's magnetic field. This indicates how the consumers themselves are attracted to buying and drinking Pepsi much like a magnet themselves.
