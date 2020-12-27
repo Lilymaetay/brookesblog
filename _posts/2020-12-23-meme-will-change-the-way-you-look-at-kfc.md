@@ -25,4 +25,4 @@ The story doesn't just end here though, Freddie took it a step further and reque
 >
 > "This has enough retweets now \[more than 33,000 as we write this] that the people at KFC HQ have definitely seen it, so seems like a good opportunity to remind them they need to pay their employees a living wage."
 
-This kind gesture will definetly bring a smile to KFC workers, especially at Christmas.
+This kind gesture will definetly bring a smile to KFC workers, especially at Christmas. Media platforms are under scrutiny every day for its damaging effect upon the population but here are just some examples of how beneficial it can be to society. It can make people laugh and spread awareness.
