@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meme Will Change The Way You Look At KFC
+title: How KFC Became Viral Last Week
 date: 2020-12-23T20:19:00.475Z
 header_feature_image: ../uploads/photo-1542488246-1390a9a99a30.jpg
 comments: true
