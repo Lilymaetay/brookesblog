@@ -5,13 +5,13 @@ date: 2020-11-13T19:55:49.457Z
 header_feature_image: ../uploads/kfc.jpg
 comments: true
 ---
-Fast-food chains have dominated the food industry for decades. In 2018 alone the fast food industry was worth $256 billion in 2018. What makes the fast-food industry so iconic and memorable though is its famous Logos. From McDonald's to KFC each logo is memorizable throughout the world and attracts millions of visitors every year. 
+Fast-food chains have dominated the food industry for decades. In 2018 alone the industry was worth $256 billion in 2018. What makes the fast-food industry so iconic and memorable though is its famous Logos. From McDonald's to KFC each logo is memorizable throughout the world and attracts millions of visitors every year. 
 
 **McDonald's**
 
 ![](../uploads/mcdonalds.png)
 
-Introduced in 1968 the McDonalds logo is famous throughout the world. The simple yet bold 'M' was designed by Jesse Burgheimer and is known as McLawsuit. The font itself is available in 99 characters and not in lowercase. The vibrant, contrasting colours of the red and yellow further attract the consumer's attention. 
+Introduced in 1968 the McDonalds logo is famous throughout the world. The simple yet bold 'M' was designed by Jesse Burgheimer and is known as McLawsuit. The font itself is available in 99 characters and not in lowercase. The vibrant, contrasting colours of red and yellow further attract the consumer's attention. 
 
 **KFC** 
 
