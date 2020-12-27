@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Secrets in Food Logos
+title: Food Logo Secrets
 date: 2020-11-20T12:31:34.835Z
 header_feature_image: ../uploads/photo-1587726625802-a161c81bf735.jpg
 comments: true
