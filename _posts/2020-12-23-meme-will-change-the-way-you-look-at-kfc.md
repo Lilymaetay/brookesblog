@@ -2,7 +2,7 @@
 layout: post
 title: Meme Will Change The Way You Look At KFC
 date: 2020-12-23T20:19:00.475Z
-header_feature_image: ../uploads/images.png
+header_feature_image: ../uploads/photo-1542488246-1390a9a99a30.jpg
 comments: true
 ---
 KFC went viral this week and not for reasons you would expect. Known for its 'finger-licking' good chicken the company serves roughly 12 million customers daily contributing to making an annual profit well over £20 billion. Surprisingly it wasn't the amazing chicken that made the company go viral but rather the logo of  Colonel Sanders.
@@ -14,6 +14,8 @@ The colonel has one of the most recognizable faces in the world. When you think 
 Freddie Champion is the creator of the viral tweet. On December 16th he posted this statement 
 
 > "My wife just confessed that for her entire childhood she thought Colonel Sanders’ bow tie was his whole body and now I can’t stop seeing a tiny stick body every time I look at him."
+
+![](../uploads/images.png)
 
 I don't think any of us will ever look the Colonel the same way again. His body was right there in front of us all along. We just never noticed.
 
