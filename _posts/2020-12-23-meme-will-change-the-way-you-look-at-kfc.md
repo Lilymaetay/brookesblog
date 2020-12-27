@@ -17,6 +17,8 @@ Freddie Champion is the creator of the viral tweet. On December 16th he posted t
 
 I don't think any of us will ever look the Colonel the same way again. His body was right there in front of us all along. We just never noticed.
 
+The KFC logo itself is rather bold with the shade black being used for the Colonels face and 'bow-tie'. Perhaps this is why we have never noticed his tiny body before as there as his body is all in black. 
+
 The tweet itself managed to gather nearly half a million likes and retweeted over 59 thousand times. 
 
 The story doesn't just end here though, Freddie took it a step further and requested all KFC employees attach their GoFundMe pages in the messages section in order for people to donate money for their medical bills.  
