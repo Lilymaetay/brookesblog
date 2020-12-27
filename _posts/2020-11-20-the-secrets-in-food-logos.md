@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Secrets in Food Logos...
+title: The Secrets in Food Logos
 date: 2020-11-20T12:31:34.835Z
 header_feature_image: ../uploads/photo-1587726625802-a161c81bf735.jpg
 comments: true
 ---
-For years food brands have been hiding hidden symbols from us. The tactical marketing move is utterly brilliant and totally different from most brands on the market. Here are a few of those logos with some design secrets that will shock you all...
+For years food brands have been hiding symbols from us. The tactical marketing move is utterly brilliant and totally different from most brands on the market. Here are a few of those logos with some design secrets that will shock you all.
 
 **TOBLERONE**
 
